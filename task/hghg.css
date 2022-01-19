@@ -1,0 +1,19 @@
+.images{
+    height: 50px;
+    width: 917px;
+}
+
+.img{
+  display: flex;
+    justify-content: center;
+}
+.xx{
+    margin-left: 564px;
+}
+
+p{
+    margin-left: 400px;
+}
+.btn{
+    padding: 10px 20px !important;
+}
